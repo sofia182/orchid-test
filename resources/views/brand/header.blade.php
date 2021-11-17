@@ -13,7 +13,7 @@
     <x-orchid-icon path="orchid" width="1.2em" height="1.2em"/>
 
     <p class="ms-3 my-0 d-none d-sm-block">
-        ORCHID PROVA
+        ORCHID CUSTOM
         <small class="align-top opacity">Platform</small>
     </p>
 </div>
